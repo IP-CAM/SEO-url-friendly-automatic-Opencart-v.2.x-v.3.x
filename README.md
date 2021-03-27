@@ -1,4 +1,4 @@
-[! [License] [license] [license]
+[! [License]] [license] [license]
 
 ### Presentation
 
