@@ -1,5 +1,3 @@
-[! [License]] [license] [license]
-
 ### Presentation
 
 This modification was developed in the OCMOD format, and increments the automatic filling of the user-friendly URL at the time of the registration or editing of products, departments, information pages and brands.
