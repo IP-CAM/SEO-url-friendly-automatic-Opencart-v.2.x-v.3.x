@@ -1,40 +1,41 @@
-[![license][licenca-badge]][LICENSE]
+[! [License] [license] [license]
 
-### Apresentação
+### Presentation
 
-Esta modificação foi desenvolvida no formato OCMOD, e incrementa o preenchimento automático da URL amigável no momento do cadastro ou edição de produtos, departamentos, páginas de informações e marcas.
+This modification was developed in the OCMOD format, and increments the automatic filling of the user-friendly URL at the time of the registration or editing of products, departments, information pages and brands.
 
-Uma das grandes vantagens desta modificação é que a URL amigável é gerada em tempo real, ou seja, no ato do preenchimento do cadastro ou edição.
+One of the great advantages of this modification is that the friendly URL is generated in real time, that is, at the time of filling the registration or editing.
 
-A URL amigável é gerada utilizando as melhores regras para sua composição, dispensando a preocupação de preenchimento e ajustes por parte do usuário final.
+The friendly URL is generated using the best rules for your composition, dispensing to fill and adjustment concerns by the end user.
 
-### Instalação
+### Installation
 
- 1. Acesso o link: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22022.
- 2. Localize a versão mais atual e compatível com sua versão do OpenCart e faça o download.
- 3. Na administração da loja acesse o menu Extensões→Instalador (Extensions→Installer).
- 4. Na página do instalador, clique no botão Upload, selecione o arquivo 'url-amigavel-automatica.ocmod.zip' (que você baixou deste repositório), e aguarde a conclusão da instalação automática.
- 5. Após a instalação, acesse o menu Extensões→Modificações (Extensions→Modifications), clique no botão Atualizar (Refresh), para que a modificação instalada seja adicionada na loja, lembrando que não é o botão "Atualizar" do navegador, e sim o botão "Atualizar" na cor azul, ao lado do botão laranja e vermelho na tela do próprio OpenCart.
+ 1. Access the link: https://www.opencart.com/index.php?let=marketplace/extension/info&Extension_ID=22022.
+ 2. Locate the most current and compatible version with your OpenCart version and download.
+ 3. In the store administration access the Extensions → Installer menu (Extensions → Installer).
+ 4. On the Installer page, click the Upload button, select the 'url-amigavel-automatic.ocmod.zip' file (which you downloaded from this repository), and wait for the automatic installation.
+ 5. After installation, go to the Extensions → Modifications menu (Extensions → Modifications), click the Update (Refresh) button, so that the installed modification is added to the store, remembering that it is not the "Update" button of the browser, but The "Update" button in blue color, next to the orange and red button on OpenCart itself.
 
-### Utilização
+### Using
 
-Após a instalação nenhuma outra configuração é necessária.
+After installation no other setting is required.
 
-Caso utilize mais de um idioma na loja, o idioma padrão da loja será o idioma utilizado para gerar a URL amigável.
+If you use more than one language in the store, the default language of the store will be the language used to generate the user-friendly URL.
 
-### Desinstalação
+### uninstallation
 
-Para desinstalar a modificação, na administração da loja, acesse o menu Extensões→Modificações (Extensions→Modifications), localize e selecione a modificação com o nome 'Adiciona a url amigável automaticamente no cadastro ou edição' ou 'URL amigável automática', depois clique no botão Excluir (Delete), e no botão Atualizar (Refresh).
+To uninstall modification, store administration, access the Extensions → Modifications (Extensions → Modifications) menu, locate and select the modification with the name 'Adds the Automatically Friendly URL in the Register or Editing' or 'Automatic Friendly URL', then click On the Delete button, and the Update button (Refresh).
 
-### Atualização
+### Update
 
-Acesse a administração da loja e execute o procedimento de Desinstalação, depois execute o procedimento de Instalação.
+Access store administration and run the uninstall procedure, then run the installation procedure.
 
-### Dúvidas
+### Doubts
 
-O OCMOD (OpenCart Modification) é nativo do OpenCart, ou seja, não é necessário instalar nenhum complemento no OpenCart para utilizar modificações ou extensões no formato OCMOD, para mais informações sobre o OCMOD, segue o link para mais informações:
+OCMOD (OpenCart Modification) is native to OpenCart, that is, it is not necessary to install any add-on in Opencart to use modifications or extensions in the OCMOD format, for more information about OCMOD, follow the link for more information:
 
-https://github.com/opencart/opencart/wiki/Modification-System
+https://github.com/opencart/opencart/wiki/modification-system
 
-[licenca-badge]: https://img.shields.io/badge/licença-GPLv3-blue.svg
-[LICENSE]: ./LICENSE
+[licensence-badge]: https://img.shields.io/badge/licence-gplv3-blue.svg
+[License]: ./license
+
